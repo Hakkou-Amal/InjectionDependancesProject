@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bdce866-9d8b-4d8c-97db-109e62960ec1" name="Changes" comment="ajout des interfaces et classes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sid/prese/Prese1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/metier/IMetierImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/metier/IMetierImpl.java" afterDir="false" />
     </list>
@@ -53,7 +54,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2vE3zjkpL6A53rndTT1CvLkIHuS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -103,7 +106,7 @@
       <updated>1743696673762</updated>
       <workItem from="1743696675884" duration="14163000" />
       <workItem from="1743716765773" duration="9000" />
-      <workItem from="1743716801764" duration="745000" />
+      <workItem from="1743716801764" duration="2322000" />
     </task>
     <task id="LOCAL-00001" summary="ajout des interfaces et classes">
       <option name="closed" value="true" />
