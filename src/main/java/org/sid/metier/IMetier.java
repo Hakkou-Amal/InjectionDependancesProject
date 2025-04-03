@@ -1,6 +1,8 @@
 package org.sid.metier;
 
 public interface IMetier {
-    double calcul();
+    default double calcul() {
+        return 0;
+    }
 
 }

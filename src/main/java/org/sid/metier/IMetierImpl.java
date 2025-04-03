@@ -26,5 +26,5 @@ public class IMetierImpl implements IMetier {
 
     public void setDao(IDao dao) {
         this.dao = dao;
-
     }
+}
