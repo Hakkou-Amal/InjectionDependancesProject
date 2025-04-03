@@ -1,5 +1,5 @@
 package org.sid.dao;
-
+import org.sid.dao.IDao ;
 public class DaoImpl implements IDao {
 
     @Override
