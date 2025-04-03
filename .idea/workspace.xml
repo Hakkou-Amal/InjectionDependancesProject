@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bdce866-9d8b-4d8c-97db-109e62960ec1" name="Changes" comment="ajout des interfaces et classes">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/dao/DaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/dao/DaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/metier/IMetierImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/metier/IMetierImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +70,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "settings.sync",
@@ -106,7 +103,7 @@
       <updated>1743696673762</updated>
       <workItem from="1743696675884" duration="14163000" />
       <workItem from="1743716765773" duration="9000" />
-      <workItem from="1743716801764" duration="330000" />
+      <workItem from="1743716801764" duration="745000" />
     </task>
     <task id="LOCAL-00001" summary="ajout des interfaces et classes">
       <option name="closed" value="true" />
